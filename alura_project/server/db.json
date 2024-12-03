@@ -30,6 +30,18 @@
       "content": "Fui nadar",
       "created_at": "2024-11-24 15:50:24.683325",
       "updated_at": "2024-11-24 15:50:24.683325"
+    },
+    {
+      "id": "d753ffd0-b193-11ef-8d4f-971e6cbc6c5d",
+      "content": "Aprendi flutter\n\n",
+      "created_at": "2024-12-02 12:29:21.259955",
+      "updated_at": "2024-12-02 12:29:21.259955"
+    },
+    {
+      "id": "8d2e5790-b196-11ef-b040-fd78887e587b",
+      "content": "Corri 5km",
+      "created_at": "2024-11-25 12:49:18.230297",
+      "updated_at": "2024-11-25 12:49:18.230297"
     }
   ]
 }
