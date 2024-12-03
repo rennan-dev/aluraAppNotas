@@ -1,28 +1,35 @@
 {
-  "learnhttp": [
+  "learnhttp": [],
+  "journals": [
     {
-      "id": "365d",
-      "content": "Olá Mundo!"
+      "id": "c99d69e0-b188-11ef-a108-d1077b9ed634",
+      "content": "hoje fez sol",
+      "created_at": "2024-11-27 15:10:48.310458",
+      "updated_at": "2024-11-27 15:10:48.310458"
     },
     {
-      "id": "7d1b",
-      "content": "Olá Mundo!"
+      "id": "f486e8a0-b18a-11ef-96c0-7decafc4a386",
+      "content": "",
+      "created_at": "2024-12-03 15:26:23.795914",
+      "updated_at": "2024-12-03 15:26:23.795931"
     },
     {
-      "id": "234c",
-      "content": "Olá Mundo!"
+      "id": "fdf638f0-b18a-11ef-96c0-7decafc4a386",
+      "content": "tomei cafe",
+      "created_at": "2024-11-24 15:26:25.284876",
+      "updated_at": "2024-11-24 15:26:25.284876"
     },
     {
-      "id": "6207",
-      "content": "Olá Mundo!"
+      "id": "42b0d3b0-b18b-11ef-96c0-7decafc4a386",
+      "content": "suco de laranja",
+      "created_at": "2024-11-24 15:26:25.284876",
+      "updated_at": "2024-11-24 15:26:25.284876"
     },
     {
-      "id": "b760",
-      "content": "Olá Mundo!"
-    },
-    {
-      "id": "5d72",
-      "content": "Olá Mundo!"
+      "id": "536030e0-b18e-11ef-a083-d9b66fad54f7",
+      "content": "Fui nadar",
+      "created_at": "2024-11-24 15:50:24.683325",
+      "updated_at": "2024-11-24 15:50:24.683325"
     }
   ]
 }
